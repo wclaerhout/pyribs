@@ -7,7 +7,7 @@
 #### Bugs
 
 - Fix reservoir sampling of the `DensityArchive` buffer when one `add` replaces
-  several measures ({issue}`729`)
+  several measures ({issue}`729`, {pr}`730`)
 
 ## 0.12.0
 
